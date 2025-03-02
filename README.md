@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vishalsharma89/practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalsharma89/practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vishalsharma89/practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/vishalsharma89/practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishalsharma89/practice/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalsharma89/practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vishalsharma89/practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vishalsharma89/practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vishalsharma89/practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishalsharma89/practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vishalsharma89/practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishalsharma89/practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishalsharma89/practice/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/vishalsharma89/practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
