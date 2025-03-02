@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsharma89/practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishalsharma89/practice/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalsharma89/practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vishalsharma89/practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vishalsharma89/practice/tree/master/0283-move-zeroes) |
 ## String
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsharma89/practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishalsharma89/practice/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalsharma89/practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vishalsharma89/practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vishalsharma89/practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vishalsharma89/practice/tree/master/0283-move-zeroes) |
