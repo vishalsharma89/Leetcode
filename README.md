@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vishalsharma89/practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vishalsharma89/practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishalsharma89/practice/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/vishalsharma89/practice/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vishalsharma89/practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vishalsharma89/practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vishalsharma89/practice/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/vishalsharma89/practice/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalsharma89/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/vishalsharma89/practice/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
