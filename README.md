@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vishalsharma89/practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsharma89/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vishalsharma89/practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/vishalsharma89/practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vishalsharma89/practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/vishalsharma89/practice/tree/master/0392-is-subsequence) |
 ## String
@@ -123,10 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vishalsharma89/practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishalsharma89/practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/vishalsharma89/practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vishalsharma89/practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vishalsharma89/practice/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalsharma89/practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vishalsharma89/practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vishalsharma89/practice/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vishalsharma89/practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
