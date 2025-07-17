@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vishalsharma89/practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/vishalsharma89/practice/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/vishalsharma89/practice/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vishalsharma89/practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vishalsharma89/practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vishalsharma89/practice/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vishalsharma89/practice/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vishalsharma89/practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
