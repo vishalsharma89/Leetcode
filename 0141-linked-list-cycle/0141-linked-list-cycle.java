@@ -11,37 +11,22 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        // ListNode temp = head;
-        // Map<ListNode, Integer> nodeMap = new HashMap<>();
+       ListNode temp = head;
+       Map<ListNode,Integer> nodeMap = new HashMap<>();
 
-        // // step: traverse the linked list
-        // while(temp!=null){
-        //     // if the node is already in
-        //     // the map there is a loop
-        //     if(nodeMap.containsKey(temp)){
-        //         return true;
-        //     }
-
-        //     // store the current node in the map
-        //     nodeMap.put(temp,1);
-
-        //     // move to the next node
-        //     temp = temp.next;
-        // }
-        // return false;
-
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast!=null && fast.next!=null){
-            slow = slow.next;
-            fast = fast.next.next;
-            if(slow==fast){
-                return true;
-            }
+    //    step:traverse the linked list
+    while(temp!=null){
+        // if the node is already in the map there is a loop
+        if(nodeMap.containsKey(temp)){
+            return true;
         }
-        return false;
 
+        // store the current node in the map
+        nodeMap.put(temp,1);
 
+        // ṃove to the next node
+        temp = temp.next;
+    }
+    return false;
     }
 }
