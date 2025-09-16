@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vishalsharma89/practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalsharma89/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsharma89/practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/vishalsharma89/practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/vishalsharma89/practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsharma89/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vishalsharma89/practice/tree/master/0169-majority-element) |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/vishalsharma89/practice/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vishalsharma89/practice/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/vishalsharma89/practice/tree/master/0577-employee-bonus) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vishalsharma89/practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
