@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vishalsharma89/practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/vishalsharma89/practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishalsharma89/practice/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/vishalsharma89/practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalsharma89/practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vishalsharma89/practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalsharma89/practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vishalsharma89/practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vishalsharma89/practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vishalsharma89/practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/vishalsharma89/practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vishalsharma89/practice/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
