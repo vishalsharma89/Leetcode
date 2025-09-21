@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishalsharma89/practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/vishalsharma89/practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/vishalsharma89/practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsharma89/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsharma89/practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vishalsharma89/practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vishalsharma89/practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vishalsharma89/practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vishalsharma89/practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/vishalsharma89/practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vishalsharma89/practice/tree/master/0189-rotate-array) |
 ## Dynamic Programming
