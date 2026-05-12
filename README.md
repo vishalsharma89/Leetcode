@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/vishalsharma89/practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vishalsharma89/practice/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/vishalsharma89/practice/tree/master/0585-investments-in-2016) |
+| [1045-customers-who-bought-all-products](https://github.com/vishalsharma89/practice/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/vishalsharma89/practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/vishalsharma89/practice/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/vishalsharma89/practice/tree/master/1280-students-and-examinations) |
